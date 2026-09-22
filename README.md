@@ -1,2 +1,2 @@
-# Scorely
-Scorely is a mobile sports platform designed for schools, universities, and local clubs. It helps organizers manage tournaments, teams, and matches in one place. Users can follow live scores, fixtures, results, and team standings. The goal is to make local sports competitions easier to manage and follow.
+# NIDHI
+NIDHI is a simple and private mobile application designed to help users save, organize, and quickly access important links in one place. Instead of keeping useful URLs scattered across notes, messages, browsers, or different apps, users can store links from social media, college, work, development platforms, websites, documents, and other services inside NIDHI.
