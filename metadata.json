@@ -1,0 +1,6 @@
+{
+  "name": "NIDHI",
+  "description": "A private personal link organizer for Android. Keep what matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
